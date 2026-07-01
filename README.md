@@ -5,6 +5,8 @@
 # The Beluga Text Editor & IDE
 </div>
 
+*"A idiot admires complexity, a genius admires simplicity" - Terry A. Davis*
+
 ## Our pledge
 We simply do not believe in syntax highlighting.
 We believe the max amount of lines you have in your IDE is 1000.
