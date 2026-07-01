@@ -5,7 +5,7 @@
 # The Beluga Text Editor & IDE
 </div>
 
-*"A idiot admires complexity, a genius admires simplicity" - Terry A. Davis*
+*"An idiot admires complexity, a genius admires simplicity" - Terry A. Davis*
 
 ## Our pledge
 We simply do not believe in syntax highlighting.
