@@ -8,10 +8,12 @@
 *"An idiot admires complexity, a genius admires simplicity" - Terry A. Davis*
 
 ## Our pledge
+
 We simply do not believe in syntax highlighting.
 We believe the max amount of lines you have in your IDE is 1000.
 You have a finite amount of recourses in our editor.
 Once you master using the Beluga IDE you become a glorious warrior.
+*Of course, you can resize the code area to be bigger, you are not actually limited.*
 
 ## Test out the "intuitive" design
 https://solhost.github.io/beluga/
